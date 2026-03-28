@@ -22,11 +22,11 @@
 ### Interface de saisie
 > L'application s'ouvre dans votre navigateur sur `localhost:8765`
 
-![Tableau des prestations](Screenshot_application/S2.png.)
+![Tableau des prestations](Screenshot_application/S2.png)
 
 ### Exemple de facture générée
 
-![Facture complète](screenshots/Screenshot_application/S3.png)
+![Facture complète](Screenshot_application/S3.png)
 
 ---
 
@@ -93,22 +93,7 @@ Application_Facture/
 | `reportlab` | Génération PDF |
 | `HTML / CSS / JS` | Interface utilisateur (intégrée dans `app.py`) |
 
----
 
-## 📋 Informations fixes (modifiables dans `app.py`)
-
-Les éléments suivants sont pré-remplis et ne changent pas d'une facture à l'autre :
-
-| Champ | Valeur |
-|---|---|
-| **Prestataire** | Léon LEROY EI |
-| **Adresse** | 60 Rue Galilée, SAINTE MARGUERITE |
-| **SIRET** | 981 015 670 00012 |
-| **Donneur d'ordre** | SAS Parcours Homère |
-| **IBAN** | FR76 3008 7336 5800 0210 8040 138 |
-| **BIC** | CMCIFRPP |
-
----
 
 ## 📝 Licence
 
