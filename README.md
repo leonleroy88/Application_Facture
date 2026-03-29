@@ -97,4 +97,4 @@ Application_Facture/
 
 ## 📝 Licence
 
-Usage personnel — Léon LEROY © 2024
+Usage personnel — Léon LEROY © 2026
